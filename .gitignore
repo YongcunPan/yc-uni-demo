@@ -1,0 +1,16 @@
+# node.js
+
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# uni-app
+
+/unpackage
+dist.tar.gz
+
+# vscode
+/.history
+.DS_Store
+.hbuilderx/
+.vscode/
